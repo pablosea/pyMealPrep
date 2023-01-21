@@ -1,4 +1,4 @@
-#Function fo Harris-Benedict equation
+#Function for Harris-Benedict equation
 def calculate_calories(age, weight, height, gender, activity_level):
   #Calculate BMR
   height_feet, height_inches = height
